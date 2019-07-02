@@ -1,0 +1,37 @@
+IT
+
+IT is actually composed of 2 project teams, and 6 programmers.
+This month, 88 days have been consummed by 6 programmers, and 119 days still in charge.
+
+
+
+Project teams details: 
+
+
+
+Project team: Java
+
+
+Snow, John, in charge of Java from 03.06.2019 to 19.06.2019 (duration 17), this month : 13 days (total cost = 585)
+
+
+Stark, Arya, in charge of Java from 05.08.2019 to 30.08.2019 (duration 17), this month : 13 days (total cost = 585)
+
+
+Bolton, Rose, in charge of Java from 01.03.2018 to 20.03.2018 (duration 17), this month : 13 days (total cost = 585)
+
+
+
+Project team: C++
+
+
+Baratheon, Tommen, in charge of C++ from 02.07.2018 to 21.07.2018 (duration 17), this month : 13 days (total cost = 292)
+
+
+Clegane, Gregor, in charge of C++ from 11.09.2017 to 30.09.2017 (duration 17), this month : 13 days (total cost = 292)
+
+
+Lanister, Tyrion, in charge of C++ from 03.11.2017 to 17.11.2017 (duration 17), this month : 13 days (total cost = 292)
+
+
+
